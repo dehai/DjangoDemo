@@ -1,0 +1,12 @@
+# virtual env
+venv/
+
+# database
+*.sqlite3
+
+# IDE
+.idea/
+.vscode/
+
+# some run cache
+__pycache__/
