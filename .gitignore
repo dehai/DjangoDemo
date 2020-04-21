@@ -10,3 +10,7 @@ venv/
 
 # some run cache
 __pycache__/
+
+
+# some script
+get-pip.py
